@@ -38,13 +38,6 @@ Customer segmentation is a powerful technique in customer analytics that allows 
 
 Successfully segmented customers into distinct groups showing clear patterns in spending, contract types, and service usage. These clusters can assist with targeted marketing, churn reduction, and personalized service strategies.
 
-## 🔗 Links
-
-- 📓 Kaggle Notebook: [Link to Notebook](https://www.kaggle.com/) *(Update this with the actual notebook URL)*
-- 📂 GitHub Repository: [https://github.com/sarath1711/BDA.git](https://github.com/sarath1711/BDA.git)
-
-## 📂 Repository Structure
-
 ## 📌 How to Run
 
 1. Clone this repository:
