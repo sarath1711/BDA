@@ -27,9 +27,27 @@ Customer segmentation is a powerful technique in customer analytics that allows 
 - `seaborn`
 - `sklearn`
 
+## ⚙️ Methodology
+
+- **Data Preprocessing**: Cleaned null values, standardized data, and performed encoding for categorical features.
+- **Feature Selection**: Selected numerical features relevant to customer behavior.
+- **Clustering**: Applied K-Means clustering with optimal `k` determined using the Elbow Method and Silhouette Score.
+- **Visualization**: Used PCA and seaborn/matplotlib to plot customer clusters in 2D space.
+
+## 📈 Results
+
+Successfully segmented customers into distinct groups showing clear patterns in spending, contract types, and service usage. These clusters can assist with targeted marketing, churn reduction, and personalized service strategies.
+
+## 🔗 Links
+
+- 📓 Kaggle Notebook: [Link to Notebook](https://www.kaggle.com/) *(Update this with the actual notebook URL)*
+- 📂 GitHub Repository: [https://github.com/sarath1711/BDA.git](https://github.com/sarath1711/BDA.git)
+
+## 📂 Repository Structure
+
 ## 📌 How to Run
 
-1. Clone this repo:
+1. Clone this repository:
    ```bash
    git clone https://github.com/sarath1711/BDA.git
    cd BDA
